@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cine SYSTEM "cine.dtd">
+<cataleg>
+    <llista_actors>
+        <actor id="">
+            <nom></nom>
+            <edat></edat>
+        </actor>
+        <actor id="">
+            <nom></nom>
+            <edat></edat>
+        </actor>
+        <actor id="">
+            <nom></nom>
+        </actor>
+    </llista_actors>
+    <llista_pelicules>
+        <pelicula id="">
+            <titol idioma=""></titol>
+            <director></director>
+            <any></any>
+            <actors>
+                <actor_ref ref=""/>
+            </actors>
+        </pelicula>
+        <pelicula id="">
+            <titol idioma=""></titol>
+            <director></director>
+            <any></any>
+            <actors>
+                <actor_ref ref=""/>
+                <actor_ref ref=""/>
+                <actor_ref ref=""/>
+            </actors>
+        </pelicula>
+    </llista_pelicules>
+    <llista_recomanacions_pelicules>
+        <recomanacio ref=""/>
+    </llista_recomanacions_pelicules>
+</cataleg>
